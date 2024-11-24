@@ -1,7 +1,7 @@
 //chaine de caractere
 var MavariableString = "Bonsoir les ami(e)(s)";
 //nombre
-var MavariableNumerique = 100;
+var MavariableNumerique = prompt ("entrez un mot", 100);
 //tableau
 var MavariableTableau = ['Apple', 'Banana'];
 // objet

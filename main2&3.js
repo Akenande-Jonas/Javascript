@@ -6,8 +6,7 @@ var MavariableNumerique = 100;
 var MavariableTableau = ['Apple', 'Banana'];
 // objet
 var MavariableObjet = window
-    var MavariableSurveillance = window
-        var window = innerHeight = 911;
-        var window = innerWidth = 811;   
+//
+var MavariableSurveillance = window   
 
 alert(MavariableString + MavariableNumerique + MavariableTableau[0] + MavariableObjet.location.pathname + MavariableSurveillance);

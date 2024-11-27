@@ -8,5 +8,5 @@ var MavariableObjet = window
 if (MavariableString =="fenetre 300px" && MavariableNumerique !=400 || MavariableNumerique >= 300){
     alert("C'est inferieur à 300px");
 } else {
-    alert("C'est toujours sup à 300px");
+    alert("C'est superieur à 300px");
 }

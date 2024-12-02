@@ -1,10 +1,10 @@
-
-var MaDiv1=document.getElementById("MaDiv1");
-MaDiv1.innerHTML="Hello";
-
+// Caractère
+var MaDiv = document.getElementById("MaDiv");
+MaDiv.innerHTML = "Coucou je suis là!";
+// Fonction
 function ModifText(texte){
-alert("je vais modifier la div");
-MaDiv1.innerHTML=texte;
+alert("attention changement de Madiv");
+MaDiv.innerHTML=texte;
 }
-
-ModifText("Hello");
+// Fonction appliqué
+ModifText("Coucou je suis là!");

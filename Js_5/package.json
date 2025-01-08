@@ -1,0 +1,19 @@
+{
+  "name": "test11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index11.js",
+  "scripts": {
+    "start": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akenande-Jonas/Javascript/tree/master/Js_5"
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
